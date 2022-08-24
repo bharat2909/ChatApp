@@ -11,4 +11,10 @@ Proper chat messages have been handled in the chat screen.
 
 Tools and Libraries Used - LiveData , Picasso , FireBase , MaterialDesign.
 
+Screenshots
+![Login Page](https://user-images.githubusercontent.com/52295247/186399144-7bd7ed71-ee64-48cc-9230-95d103f6f823.jpeg)
+![SignUp Page](https://user-images.githubusercontent.com/52295247/186399162-55135b88-a02b-444b-b476-87bd60572dfc.jpeg)
+![Update Profile Page](https://user-images.githubusercontent.com/52295247/186399187-95057d60-9f34-40c6-ad0b-ffdd727962a7.jpeg)
+
+
 
